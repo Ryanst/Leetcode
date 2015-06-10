@@ -1,5 +1,5 @@
-DS_STORE
-*.dYSM
+DS_Store
+*.dYSM*
 *.out
 .*.swp
 .*.swo
