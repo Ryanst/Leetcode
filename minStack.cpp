@@ -18,7 +18,7 @@ public:
 	{
 		if(!min.empty())
 		{
-			if(min.top == data.top())
+			if(min.top() == data.top())
 				min.pop();
 			data.pop();
 		}
